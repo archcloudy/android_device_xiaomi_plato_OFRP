@@ -92,6 +92,7 @@ rpmb.ko
 rpmb-mtk.ko
 ufs-mediatek-mod.ko
 ufs-mediatek-dbg.ko
+miev.ko
 mi-memory.ko
 clk-chk-mt6895.ko
 clk-dbg-mt6895.ko
@@ -274,6 +275,7 @@ rpmb.ko
 rpmb-mtk.ko
 ufs-mediatek-mod.ko
 ufs-mediatek-dbg.ko
+miev.ko
 mi-memory.ko
 clk-chk-mt6895.ko
 clk-dbg-mt6895.ko
