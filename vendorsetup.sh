@@ -1,15 +1,13 @@
 export TARGET_ARCH="arm64-v8a"
 
 # Some about us
-export FOX_VERSION="R12.1_0_A14"
-export OF_MAINTAINER="JonesqPacMan"
+export FOX_MAINTAINER_PATCH_VERSION="A15"
+export OF_MAINTAINER="JonesqPacMan | archcloudy"
 
 # Build environment stuffs
 export FOX_BUILD_DEVICE="plato"
 export FOX_VARIANT="HyperOS"
 export FOX_BUILD_TYPE="Unofficial"
-export TW_DEFAULT_LANGUAGE="id"
-export OF_DEFAULT_TIMEZONE="WIB-7"
 export ALLOW_MISSING_DEPENDENCIES=true
 export FOX_USE_TWRP_RECOVERY_IMAGE_BUILDER=1
 export TARGET_DEVICE_ALT="plato"
@@ -68,7 +66,7 @@ export OF_FIX_OTA_UPDATE_MANUAL_FLASH_ERROR=1
 export OF_DISABLE_MIUI_OTA_BY_DEFAULT=1
 
 # Magisk
-export FOX_USE_SPECIFIC_MAGISK_ZIP=~/Magisk/Magisk-v26.4.zip
+export FOX_USE_SPECIFIC_MAGISK_ZIP=~/Magisk/Magisk-v30.7.zip
 
 # Dont install AROMAFM
 export FOX_DELETE_AROMAFM=1
