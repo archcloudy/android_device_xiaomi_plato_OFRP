@@ -1,7 +1,6 @@
 export TARGET_ARCH="arm64-v8a"
 
 # Some about us
-export FOX_MAINTAINER_PATCH_VERSION="A15"
 export OF_MAINTAINER="JonesqPacMan | archcloudy"
 
 # Build environment stuffs
