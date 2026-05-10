@@ -23,3 +23,5 @@ ro.hardware.gatekeeper=beanpod
 # Timezone
 persist.sys.timezone="Asia/Jakarta"
 
+# HideReflashTWRP
+ro.twrp.vendor_boot=true
